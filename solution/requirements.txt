@@ -1,0 +1,4 @@
+# Dependencias exactas de la solucion. Probado con Python 3.11.3.
+# La solucion solo usa numpy; pandas lo necesita evaluation/validate_submission.py.
+numpy==1.26.4
+pandas==2.2.2
